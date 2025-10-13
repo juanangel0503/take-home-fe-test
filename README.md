@@ -1,4 +1,4 @@
-# Take-Home Test — Fullstack Development
+# Take-Home Test
 
 ## Objective
 
